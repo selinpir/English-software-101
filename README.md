@@ -27,6 +27,32 @@
 |Version control | Sürüm kontrolü|
 
 |  ENG  | TR  | 
+| --------- | ----------- |  
+|Artificial Intelligence	|Yapay Zeka|
+|Machine Learning|	Makine Öğrenimi|
+|Deep Learning|	Derin Öğrenme|
+|Neural Network|	Sinir Ağı|
+|Natural Language Processing|	Doğal Dil İşleme|
+|Computer Vision|	Bilgisayarlı Görü|
+|Reinforcement Learning|	Takviyeli Öğrenme|
+|Data Science|	Veri Bilimi|
+|Data Mining|	Veri Madenciliği|
+|Algorithm	|Algoritma|
+|Training Set	|Eğitim Seti|
+|Test Set	|Test Seti|
+|Feature Extraction|	Özellik Çıkarımı|
+|Supervised Learning|	Gözetimli Öğrenme|
+|Unsupervised Learning	|Gözetimsiz Öğrenme|
+|Classification|	Sınıflandırma|
+|Regression	|Regresyon|
+|Clustering|	Kümeleme|
+|Decision Tree|	Karar Ağacı|
+|Artificial Neural Network|	Yapay Sinir Ağı|
+
+
+
+
+|  ENG  | TR  | 
 | --------- | ----------- |   
 | Above | Yukarısında |
 | Access | Erişim |
