@@ -2,7 +2,7 @@
 ### "Yazılımın Gücünün Kilidini Açmak: Teknoloji Meraklıları için İngilizce 101 Kılavuzu"
 ### "Unlocking the Power of Software: An English 101 Guide for Tech Enthusiasts"
 :pinched_fingers:   :love_you_gesture:  :point_down:
-
+:small_red_triangle_down:
 |  ENG  | TR  | 
 | --------- | ----------- |   
 |Algorithm | Algoritma|
@@ -26,6 +26,7 @@
 |Variable |Değişken|
 |Version control | Sürüm kontrolü|
 
+:small_red_triangle_down:
 |  ENG  | TR  | 
 | --------- | ----------- |  
 |Artificial Intelligence	|Yapay Zeka|
@@ -49,9 +50,25 @@
 |Decision Tree|	Karar Ağacı|
 |Artificial Neural Network|	Yapay Sinir Ağı|
 
+:small_red_triangle_down:
+|  ENG  | TR  | 
+| --------- | ----------- | 
+|Front-end|	Ön uç|
+|User Interface (UI)|	Kullanıcı Arayüzü (KA)|
+|Responsive Design|	Duyarlı Tasarım|
+|Framework|	Çatı|
+|DOM (Document Object Model)|	DOM (Belge Nesne Modeli)|
+|UI Design|	Kullanıcı Arayüzü Tasarımı|
+|UX Design|	Kullanıcı Deneyimi Tasarımı|
+|Cross-browser Compatibility|	Çoklu Tarayıcı Uyumluluğu|
+|Accessibility	|Erişilebilirlik|
+|Single Page Application (SPA)|	Tek Sayfalı Uygulama (TSU)|
+|Web Components|	Web Bileşenleri|
+|Progressive Web App (PWA)|	İlerici Web Uygulaması (IWU)|
+|Version Control System|	Sürüm Kontrol Sistemi|
+|API (Application Programming Interface)|	API (Uygulama Programlama Arayüzü)|
 
-
-
+:small_red_triangle_down:
 |  ENG  | TR  | 
 | --------- | ----------- |   
 | Above | Yukarısında |
