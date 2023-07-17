@@ -16,6 +16,17 @@
 |Data Scientist|Veri Bilimci|
 |Cyber Security Expert | Siber Güvenlik Uzmanı|
 |Manager|Müdür- Yönetici|
+| Critical Error | Kritik Hata| 
+| Hardworking |  Çalışkan| 
+| Round |  Yuvarlak| 
+| İntelligent |  Zeki| 
+| Architect  | Mimar| 
+| Technician  | Teknisyen| 
+| Network  | Ağ| 
+| Wide |  Geniş| 
+| Narrow  | Dar| 
+| Dependent|   Bağımlı| 
+| İndependent |  Bağımsız| 
 |||
 |||
 |||
