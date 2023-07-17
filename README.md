@@ -27,6 +27,26 @@
 | Narrow  | Dar| 
 | Dependent|   Bağımlı| 
 | Independent |  Bağımsız| 
+|Screen|Ekran|
+|Interpreter| Tercüman,yorumlayıcı|
+|Acceess| Erişim|
+|Source Code | Kaynak Kod|
+|Developer| Geliştirici|
+|Search Engine Optimization:(SEO)|Arama Motoru Optimizasyonu|
+|Expert| Uzman|
+|Data Mining| Veri Madenciliği|
+|Frequency| Sıklık|
+|Seldom| Seyrek, Nadiren|
+|Match |Eşleştirme- Maç-kibrit|
+|Store| Mağaza - Depolama|
+|exam| sınav|
+|program| program|
+|game| oyun|
+|due date/deadline| teslim tarihi|
+|midterm exam| dönem ortası sınavı|
+|project| proje|
+|graduation| mezuniyet|
+|election|seçim|
 |||
 |||
 |||
