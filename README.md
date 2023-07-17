@@ -19,14 +19,14 @@
 | Critical Error | Kritik Hata| 
 | Hardworking |  Çalışkan| 
 | Round |  Yuvarlak| 
-| İntelligent |  Zeki| 
+| Intelligent |  Zeki| 
 | Architect  | Mimar| 
 | Technician  | Teknisyen| 
 | Network  | Ağ| 
 | Wide |  Geniş| 
 | Narrow  | Dar| 
 | Dependent|   Bağımlı| 
-| İndependent |  Bağımsız| 
+| Independent |  Bağımsız| 
 |||
 |||
 |||
