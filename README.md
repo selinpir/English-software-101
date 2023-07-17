@@ -9,7 +9,7 @@
 |Software|Yazılım| 
 |Hardware|Donanım| 
 |a mouse|Fare| 
-|a monitör|ekran| 
+|a monitör|Ekran| 
 |Engineer|Mühendis| 
 |Data|Veri| 
 |Data Analyst|Veri Analisti|
@@ -39,29 +39,27 @@
 |Seldom| Seyrek, Nadiren|
 |Match |Eşleştirme- Maç-kibrit|
 |Store| Mağaza - Depolama|
-|exam| sınav|
-|program| program|
-|game| oyun|
-|due date/deadline| teslim tarihi|
-|midterm exam| dönem ortası sınavı|
-|project| proje|
-|graduation| mezuniyet|
-|election|seçim|
+|Exam| Sınav|
+|Program| Program|
+|Game| Oyun|
+|Due date/ Deadline| Teslim tarihi|
+|Midterm Exam| Dönem ortası sınavı|
+|Project| Proje|
+|Graduation| Mezuniyet|
+|Election|Seçim|
+|Experience | Tecrübe|
+|Expert |Uzman|
+|Important File | Önemli Dosya|
+|Administrator | Yönetici|
+|Permanent Changes |Kalıcı Değişiklikler|
+|Cable |Kablo|
+|Responsible |Sorumlu|
+|Above | Yukarısında|
+|Below | Aşağısında|
+|Under | Altında|
+|Behind | Arkasında |
+|Between | İki Şeyin Arasında|
+|in Front Of |Önünde|
+|HDD |Hard Disk Drive |
 |||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+
