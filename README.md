@@ -4,16 +4,25 @@
 
 |  ENG  | TR   |
 | --------- | ----------- |   
-| a bug ||
-|    |   |  
-|    |   |
-|    |   | 
-|    |   |
-|    |   |   
-|    |   |
-|    |   |   
-|    |   |
-|    |   |   
+|a bug |   |
+|a curl|   |  
+|Device|Cihaz|
+|Software|Yazılım| 
+|Hardware|Donanım| 
+|a laptop|| 
+|a mouse|Fare| 
+|a monitör|ekran| 
+|Engineer|Mühendis| 
+|Data|Veri| 
+|Data Analyst|Veri Analisti|
+|Data Scientist|Veri Bilimci|
+|Cyber Security Expert | Siber Güvenlik Uzmanı|
+|Manager|Müdür- Yönetici|
+|||
+|||
+
+|||
+
 
 
 
