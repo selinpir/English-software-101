@@ -2,6 +2,7 @@
 ### "Yazılımın Gücünün Kilidini Açmak: Teknoloji Meraklıları için İngilizce 101 Kılavuzu"
 ### "Unlocking the Power of Software: An English 101 Guide for Tech Enthusiasts"
 :pinched_fingers:   :love_you_gesture:  :point_down:
+
 :small_red_triangle_down:
 |  ENG  | TR  | 
 | --------- | ----------- |   
@@ -26,7 +27,10 @@
 |Variable |Değişken|
 |Version control | Sürüm kontrolü|
 
-:small_red_triangle_down:
+
+:small_red_triangle_down: 
++ Artificial Intelligence /	Yapay Zeka
+  
 |  ENG  | TR  | 
 | --------- | ----------- |  
 |Artificial Intelligence	|Yapay Zeka|
@@ -51,6 +55,8 @@
 |Artificial Neural Network|	Yapay Sinir Ağı|
 
 :small_red_triangle_down:
++ Front-end /	Ön uç
+
 |  ENG  | TR  | 
 | --------- | ----------- | 
 |Front-end|	Ön uç|
