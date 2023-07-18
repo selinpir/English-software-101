@@ -75,6 +75,32 @@
 |API (Application Programming Interface)|	API (Uygulama Programlama Arayüzü)|
 
 :small_red_triangle_down:
++ Back-end /	Arka uç
+  
+|  ENG  | TR  | 
+| --------- | ----------- |   
+|Back-end|	Arka uç|
+|Server|	Sunucu|
+|Database|	Veritabanı|
+|API (Application Programming Interface)|	API (Uygulama Programlama Arayüzü)|
+|Server-side|	Sunucu tarafı|
+|Programming Language|	Programlama Dili|
+|Database Management System (DBMS)|	Veritabanı Yönetim Sistemi (VTYS)|
+|SQL (Structured Query Language)|	SQL (Yapılandırılmış Sorgu Dili)|
+|RESTful API	|RESTful API|
+|Authentication	|Kimlik Doğrulama|
+|Authorization|	Yetkilendirme|
+|Server-side Rendering	|Sunucu Taraflı Renderleme|
+|Web Server|	Web Sunucusu|
+|Scalability	|Ölçeklenebilirlik|
+|Caching|	Önbellekleme|
+|Security|	Güvenlik|
+|Error Handling|	Hata Yönetimi|
+|Performance Optimization|	Performans Optimizasyonu|
+|Microservices|	Mikro hizmetler|
+|Cloud Computing	|Bulut Bilişim|  
+
+:small_red_triangle_down:
 |  ENG  | TR  | 
 | --------- | ----------- |   
 | Above | Yukarısında |
