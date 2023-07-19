@@ -3,7 +3,7 @@
 ### "Unlocking the Power of Software: An English 101 Guide for Tech Enthusiasts"
 :pinched_fingers:   :love_you_gesture:  :point_down:
 
-:small_red_triangle_down:
+:small_red_triangle_down: 1
 |  ENG  | TR  | 
 | --------- | ----------- |   
 |Algorithm | Algoritma|
@@ -28,7 +28,7 @@
 |Version control | Sürüm kontrolü|
 
 
-:small_red_triangle_down: 
+:small_red_triangle_down: 2
 + Artificial Intelligence /	Yapay Zeka
   
 |  ENG  | TR  | 
@@ -54,7 +54,7 @@
 |Decision Tree|	Karar Ağacı|
 |Artificial Neural Network|	Yapay Sinir Ağı|
 
-:small_red_triangle_down:
+:small_red_triangle_down: 3
 + Front-end /	Ön uç
 
 |  ENG  | TR  | 
@@ -74,7 +74,7 @@
 |Version Control System|	Sürüm Kontrol Sistemi|
 |API (Application Programming Interface)|	API (Uygulama Programlama Arayüzü)|
 
-:small_red_triangle_down:
+:small_red_triangle_down: 4
 + Back-end /	Arka uç
   
 |  ENG  | TR  | 
@@ -99,6 +99,116 @@
 |Performance Optimization|	Performans Optimizasyonu|
 |Microservices|	Mikro hizmetler|
 |Cloud Computing	|Bulut Bilişim|  
+
+:small_red_triangle_down: 5
+  
+|  ENG  | TR  | 
+| --------- | ----------- | 
+|   Repository|   	Depo|   
+|   Bug Tracking|   	Hata Takibi|   
+|   Debugging	|   Hata Ayıklama|   
+|   Deployment|   	Dağıtım|   
+|   Continuous Integration|   	Sürekli Entegrasyon|   
+|   Code Review|   	Kod İnceleme|   
+|   Unit Testing	|   Birim Testi|   
+|   Integration Testing|   	Entegrasyon Testi|   
+|   User Acceptance Testing (UAT)|   	Kullanıcı Kabul Testi|   
+|   Scalability|   	Ölçeklenebilirlik|   
+|   Performance|   	Performans|   
+|   Reliability|   	Güvenilirlik|   
+|   Maintenance|   	Bakım|   
+|   Documentation|   	Belgelendirme|   
+|   API Documentation	|   API Belgelendirme|   
+|   Framework|   	Çatı|   
+|   Library|   	Kütüphane|   
+|   Package	|   Paket|   
+|   Dependency|   	Bağımlılık|   
+|   Error Handling	|   Hata Yönetimi|   
+|   Logging	|   Günlükleme|   
+|   Encryption|   	Şifreleme|   
+|   Authentication|   	Kimlik Doğrulama|   
+|   Authorization|   	Yetkilendirme|   
+|   Performance Optimization|   	Performans Optimizasyonu|   
+|   Mobile Development	|   Mobil Geliştirme|   
+|   Web Development|   	Web Geliştirme|   
+|   Desktop Application Development	|   Masaüstü Uygulama Geliştirme|   
+|   Test Driven Development (TDD)|   	Test Odaklı Geliştirme|   
+|   Continuous Delivery	|   Sürekli Teslimat|   
+|   Software Architecture|   	Yazılım Mimarisi|   
+
+:small_red_triangle_down: 6
+
+|  ENG  | TR  | 
+| --------- | ----------- |   
+| Virtual Reality| 	Sanal Gerçeklik| 
+| Augmented Reality| 	Artırılmış Gerçeklik| 
+| Internet of Things (IoT)	| Nesnelerin İnterneti| 
+| Big Data| 	Büyük Veri| 
+| Cybersecurity| 	Siber Güvenlik| 
+| Blockchain| 	Blok zinciri| 
+| Cryptocurrency| 	Kripto para| 
+| Machine Learning| 	Makine Öğrenimi| 
+| Automation| 	Otomasyon| 
+| Robotics| Robot Teknolojisi| 
+| 3D Printing| 	3D Baskı| 
+| Biotechnology	| Biyoteknoloji| 
+| Nanotechnology	| Nanoteknoloji| 
+| Quantum Computing	| Kuantum Hesaplama| 
+| Wearable Technology| 	Giyilebilir Teknoloji| 
+| E-commerce| 	E-ticaret| 
+| Social Media	| Sosyal Medya| 
+| Streaming	| Akış hizmetleri| 
+| Gaming| 	Oyun oynama| 
+| Cyberbullying	| Siber zorbalık| 
+| Privacy| 	Gizlilik| 
+| Encryption| 	Şifreleme| 
+| Data Privacy| 	Veri Gizliliği| 
+| User Experience (UX)	| Kullanıcı Deneyimi| 
+| User Interface (UI)| 	Kullanıcı Arayüzü| 
+
+:small_red_triangle_down: 7
++ Operating System (OS)	İşletim Sistemi
+  
+|  ENG  | TR  | 
+| --------- | ----------- |   
+| Kernel| 	Çekirdek| 
+| File System| 	Dosya Sistemi| 
+| Process	| İşlem| 
+| Thread	| İş Parçacığı| 
+| Memory Management| 	Bellek Yönetimi| 
+| CPU (Central Processing Unit)	| İşlemci (Merkezi İşlem Birimi)| 
+| Device Driver	| Aygıt Sürücüsü| 
+| Scheduler| 	Zamanlayıcı| 
+| Interprocess Communication (IPC)	| Süreçler Arası İletişim| 
+| Virtual Memory| 	Sanal Bellek| 
+| File	| Dosya| 
+| Directory| 	Dizin| 
+| Boot| 	Önyükleme| 
+| Shell 	| Kabuk| 
+| Command Line Interface (CLI)| 	Komut Satırı Arayüzü| 
+| Graphical User Interface (GUI)| 	Grafiksel Kullanıcı Arayüzü| 
+| Multiuser	| Çok Kullanıcılı| 
+| Multiprocessing	| Çok İşlemcili| 
+| Multithreading| 	Çok İş Parçacıklı| 
+| Scheduling Algorithm	| Zamanlama Algoritması| 
+| Deadlock| 	Kilitlenme| 
+| Paging	| Sayfalama| 
+| Swapping| 	Takas| 
+| Interrupt Handling| 	Kesme İşleme| 
+| Device Management	| Aygıt Yönetimi| 
+| System Call| 	Sistem Çağrısı| 
+| Power Management| 	Güç Yönetimi| 
+| File Permission| 	Dosya İzinleri| 
+| User Account| 	Kullanıcı Hesabı| 
+| Security| 	Güvenlik| 
+| Recovery| 	Kurtarma| 
+| Network Protocol| 	Ağ Protokolü| 
+| Distributed Syste| m	Dağıtık Sistem| 
+| BIOS (Basic Input/Output System)| 	BIOS (Temel Giriş/Çıkış Sistemi)| 
+| Firmware| 	Gömülü Yazılım| 
+| System Clock| 	Sistem Saati| 
+| Patch	| Yama| 
+| System Resource| 	Sistem Kaynağı| 
 
 :small_red_triangle_down:
 |  ENG  | TR  | 
@@ -161,3 +271,4 @@
 | in Front Of | Önünde |
 |||
 
+ ### Shell, Linux ve Unix işletim sistemi kullanıcılarının komut satırı arayüzlerini kontrol etmelerini sağlayan bir bilgisayar program türüdür.
