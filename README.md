@@ -210,6 +210,67 @@
 | Patch	| Yama| 
 | System Resource| 	Sistem Kaynağı| 
 
+:small_red_triangle_down: 8
+
+  
+|  ENG  | TR  | 
+| --------- | ----------- |
+|Software Development Kit (SDK)|	Yazılım Geliştirme Kiti|
+|User|	Kullanıcı|
+|Password	|Parola|
+|Login|	Giriş yapmak|
+|Logout	|Çıkış yapmak|
+|Firewall|	Güvenlik Duvarı|
+|Malware|	Zararlı Yazılım|
+|Virus|	Virüs|
+|Trojan Horse|	Truva Atı|
+|Phishing|	Kimlik Avı|
+|Hacking|	Hackleme|
+|Cloud Storage|	Bulut Depolama|
+|Wi-Fi|	Kablosuz İnternet|
+|Bluetooth|	Bluetooth|
+|Biometric Authentication|	Biyometrik Kimlik Doğrulama|
+|Touchscreen|	Dokunmatik Ekran|
+|Algorithm|	Algoritma|
+|Cryptography|	Kriptografi|
+|Data Encryption|	Veri Şifreleme|
+|Computer Science|	Bilgisayar Bilimi|
+|Information Technology (IT)|	Bilgi Teknolojisi|
+|Hardware|	Donanım|
+|Firmware|	Gömülü Yazılım|
+|Open Source|	Açık Kaynak|
+|Closed Source|	Kapalı Kaynak|
+|API (Application Programming Interface)	|API (Uygulama Programlama Arayüzü)|
+|Database|	Veritabanı|
+|SQL (Structured Query Language)|	SQL (Yapılandırılmış Sorgu Dili)|
+|Server|	Sunucu|
+|Client	|İstemci|
+|URL (Uniform Resource Locator)|	URL (Birleşik Kaynak Konumlandırıcısı)|
+|Browser|	Tarayıcı|
+|Cache|	Önbellek|
+|DNS (Domain Name System)|	DNS (Alan Adı Sistemi)|
+|Responsive Design|	Duyarlı Tasarım|
+|User Interface Design	|Kullanıcı Arayüzü Tasarımı|
+|UX/UI Design|	Kullanıcı Deneyimi/Kullanıcı Arayüzü Tasarımı|
+|Agile Methodology|	Çevik Metodoloji|
+|Waterfall Methodology|	Su Düşer Metodolojisi|
+|Virtualization|	Sanallaştırma|
+|Cloud Computing|	Bulut Bilişim|
+|Internet of Things (IoT)|	Nesnelerin İnterneti|
+|Robotics|	Robot Teknolojisi|
+|Data Center|	Veri Merkezi|
+|Data Analysis	|Veri Analizi|
+|Data Visualization|	Veri Görselleştirme|
+|UI/UX Prototyping|	KA/KD Prototipleme|
+|Mobile Application Development|	Mobil Uygulama Geliştirme|
+|Web Development	|Web Geliştirme|
+|Full Stack Development|	Full Stack Geliştirme|
+|Data Science|	Veri Bilimi|
+|Deep Learning|	Derin Öğrenme|
+|Neural Network|	Sinir Ağı|
+|Quantum Computing|	Kuantum Hesaplama|
+
+
 :small_red_triangle_down:
 |  ENG  | TR  | 
 | --------- | ----------- |   
