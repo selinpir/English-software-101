@@ -328,7 +328,7 @@
 |Git|	Gitv
 |Continuous Monitoring	|Sürekli İzleme|
 |Infrastructure as Code|	Altyapıyı Kod Olarak Tanımlama|
-|Serverless Computing	Sunucusuz Hesaplama|
+|Serverless Computing|	Sunucusuz Hesaplama|
 
 
 :small_red_triangle_down:
