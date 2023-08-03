@@ -270,6 +270,66 @@
 |Neural Network|	Sinir Ağı|
 |Quantum Computing|	Kuantum Hesaplama|
 
+:small_red_triangle_down: 9
+
+  
+|  ENG  | TR  | 
+| --------- | ----------- |
+|Abstraction|	Soyutlama|
+|Encapsulation|	Kapsülleme|
+|Inheritance|	Kalıtım|
+|Polymorphism|	Çokbiçimlilik|
+|Composition|	Kompozisyon|
+|Design Patterns|	Tasarım Desenleri|
+|Dependency Injection|	Bağımlılık Enjeksiyonu|
+|Singleton|	Tekil Nesne|
+|Factory|	Fabrika|
+|Observer|	Gözlemci|
+|Iterator|	İteratör|
+|Proxy|	Vekil|
+|MVC (Model-View-Controller)|	MVC (Model-Görünüm-Kontrolcü)|
+|ORM (Object-Relational Mapping)	|ORM (Nesne İlişkisel Eşleme)|
+|Framework|	Çatı|
+|Dependency Management|	Bağımlılık Yönetimi|
+|DevOps|	DevOps|
+|Continuous Integration	|Sürekli Entegrasyon|
+|Continuous Deployment|	Sürekli Dağıtım|
+|Microservices|	Mikro Servisler|
+|Scalability|	Ölçeklenebilirlik|
+|Performance Optimization|	Performans Optimizasyonu|
+|Load Balancing|	Yük Dengeleme|
+|Distributed Systems|	Dağıtık Sistemler|
+|Parallel Computing|	Paralel Hesaplama|
+|Concurrency|	Eşzamanlılık|
+|Asynchronous Programming|	Asenkron Programlama|
+|Reactive Programming|	Reaktif Programlama|
+|Event-driven Architecture	|Olay Tabanlı Mimarlık|
+|Secure Coding|	Güvenli Kodlama|
+|Cryptography|	Kriptografi|
+|Secure Socket Layer (SSL)|	Güvenli Soket Katmanı (SSL)|
+|Cross-site Scripting (XSS)|	Çapraz Komut Dosyası Enjeksiyonu|
+|SQL Injection|	SQL Enjeksiyonu|
+|Buffer Overflow	|Tampon Taşması|
+|Garbage Collection|	Ömür Yönetimi|
+|Memory Leaks|	Bellek Sızıntıları|
+|Performance Profiling|	Performans Profillemesi|
+|Multithreading|	Çoklu İş Parçacığı|
+|Memory Management	|Bellek Yönetimi|
+|Reflection	|Yansıma|
+|Lambda Expression|	Lambda İfadesi|
+|Generics|	Genel Türler|
+|Unit Testing|	Birim Testi|
+|Integration Testing	|Entegrasyon Testi|
+|Load Testing|	Yük Testi|
+|Performance Testing|	Performans Testi|
+|Code Review|	Kod İncelemesi|
+|Code Refactoring|	Kod Yeniden Yapılandırma|
+|Version Control System|	Sürüm Kontrol Sistemi|
+|Git|	Gitv
+|Continuous Monitoring	|Sürekli İzleme|
+|Infrastructure as Code|	Altyapıyı Kod Olarak Tanımlama|
+|Serverless Computing	Sunucusuz Hesaplama|
+
 
 :small_red_triangle_down:
 |  ENG  | TR  | 
