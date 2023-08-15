@@ -330,6 +330,47 @@
 |Infrastructure as Code|	Altyapıyı Kod Olarak Tanımlama|
 |Serverless Computing|	Sunucusuz Hesaplama|
 
+:small_red_triangle_down: 10
+
+  
+|  ENG  | TR  | 
+| --------- | ----------- |
+|Git	|Git|
+|Repository	|Depo|
+|Commit|	İşle|
+|Branch	|Dal|
+|Merge|	Birleştir|
+|Pull Request|	Çekme İsteği|
+|Push	|İtmek|
+|Clone|	Klonlamak|
+|Fetch|	Getirmek|
+|Remote	|Uzak|
+|Origin	|Kaynak|
+|Master	|Ana|
+|Conflict|	Çakışma|
+|Stash|	Saklamak|
+|Tag|	Etiket|
+|Checkout|	Çıkış yapmak|
+|Rebase|	Yeniden temel almak|
+|Blame	|Suçlamak|
+|Gitignore	|Git Yoksay|
+|Repository Fork	|Depo Kolu|
+|Submodule|	Altmodül|
+|Git Workflow|	Git İş Akışı|
+|Git Branching Strategy|	Git Dal Stratejisi|
+|Git Merge Strategy	|Git Birleştirme Stratejisi|
+|Git Commit Message|	Git İşlem Mesajı|
+|Git Pull	|Git Çek|
+|Git Push	|Git İt|
+|Git Fetch|	Git Getir|
+|Git Remote Add	|Git Uzak Ekle|
+|Git Remote Remove|	Git Uzak Kaldır|
+|Git Status|	Git Durumu|
+|Git Diff|	Git Farkı|
+|Git Log|	Git Günlüğü|
+|Git Reset|	Git Sıfırla|
+|Git Clean|	Git Temizle|
+
 
 :small_red_triangle_down:
 |  ENG  | TR  | 
