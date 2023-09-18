@@ -371,6 +371,119 @@
 |Git Reset|	Git Sıfırla|
 |Git Clean|	Git Temizle|
 
+:small_red_triangle_down: 11
+ |  ENG  | TR  | 
+ | --------- | ----------- |  
+ |Editor	 |Editör |
+ |Extension	 |Eklenti |
+ |Workspace	 |Çalışma Alanı |
+ |File	 |Dosya |
+ |Folder	 |Klasör |
+ |Debugging |	Hata Ayıklama |
+ |Code Snippet	 |Kod Parçacığı |
+ |Theme	 |Tema |
+ |Syntax Highlighting	 |Sözdizimi Vurgulama |
+ |Git Integration	 |Git Entegrasyonu |
+ |Version Control	 |Sürüm Kontrolü |
+ |Language Server |	Dil Sunucusu |
+ |Live Share |	Canlı Paylaşım |
+ |Debug Adapter	 |Hata Ayıklama Adaptörü |
+ |Breakpoint |	Kesme Noktası |
+ |Task	 |Görev |
+ |Build Task	 |Derleme Görevi |
+ |Launch Configuration |	Başlatma Yapılandırması |
+ |Command Palette |	Komut Paleti |
+ |Snippet	 |Parça |
+ |Integrated Terminal |	Tümleşik Terminal |
+ |Package Manager	 |Paket Yöneticisi |
+ |Extension Marketplace	 |Eklenti Pazarı |
+ |Remote Development	 |Uzaktan Geliştirme |
+
+
+:small_red_triangle_down: 12
+|  ENG  | TR  | 
+| --------- | ----------- | 
+| IDE (Integrated Development Environment)| 	TİG (Tümleşik Geliştirme Ortamı)| 
+| Solution| Çözüm| 
+| Project| 	Proje| 
+| Class	| Sınıf| 
+| Method	| Metot| 
+| Property| 	Özellik| 
+| Namespace	| İsim Alanı| 
+| Debug| 	Hata Ayıklama| 
+| Build	| Derleme| 
+| Compile	| Derlemek| 
+| Run	| Çalıştır| 
+| Breakpoint| 	Kesme Noktası| 
+| Variable	| Değişken| 
+| Constant| 	Sabit| 
+| Constructor| 	Kurucu| 
+| Inheritance| 	Kalıtım| 
+| Interface	| Arayüz| 
+| Source Control| 	Kaynak Kontrolü| 
+| Team Foundation Server (TFS)| 	Takım Temel Sunucusu (TTS)| 
+| Unit Test	| Birim Testi| 
+| Code Analysis| 	Kod Analizi| 
+| Refactoring	| Yeniden Yapılandırma| 
+| Publish| 	Yayınlama| 
+
+
+:small_red_triangle_down: 13
+|  ENG  | TR  | 
+| --------- | ----------- |  
+ |Hacker	 |Bilgisayar Korsanı |
+ |Hacking	 |Korsanlık |
+ |Ethical Hacker |	Etik Bilgisayar Korsanı |
+ |Black Hat Hacker	 |Siyah Şapkalı Korsan |
+ |White Hat Hacker |	Beyaz Şapkalı Korsan |
+ |Grey Hat Hacker	 |Gri Şapkalı Korsan |
+ |Exploit	 |Sömürü |
+ |Vulnerability |	Zafiyet |
+ |Penetration Testing |	Sızma Testi |
+ |Cybersecurity	 |Siber Güvenlik |
+ |Intrusion Detection |	Sızma Tespiti |
+ |Intrusion Prevention	 |Sızma Önleme |
+ |Malware |	Zararlı Yazılım |
+ |Phishing |	Kimlik Avı |
+ |Social Engineering	 |Sosyal Mühendislik |
+ |Brute Force |	Kaba Kuvvet Atağı |
+ |Keylogger |	Tuş Kaydedici |
+ |Backdoor |	Arka Kapı |
+ |Rootkit |	Kök Kiti |
+ |Exploit Kit |	Sömürü Kiti |
+ |Zero-day Vulnerability	 |Sıfır Gün Zafiyeti |
+ |Bug Bounty Program |	Hata Ödül Programı |
+ |Capture the Flag (CTF) |	Bayrağı Yakala |
+
+ :small_red_triangle_down: 14
+|  ENG  | TR  | 
+| --------- | ----------- |  
+|  Information Security|  	Bilgi Güvenliği|  
+|  Virus|  	Virüs|  
+|  Worm|  	Solucan|  
+|  Trojan Horse|  	Truva Atı|  
+|  Ransomware|  	Fidye Yazılımı|  
+|  Phishing	|  Kimlik Avı|  
+|  Spoofing	|  Sahtekarlık|  
+|  Social Engineering|  	Sosyal Mühendislik|  
+|  Firewall	|  Güvenlik Duvarı|  
+|  Intrusion Detection System (IDS)|  	Sızma Tespit Sistemi|  
+|  Intrusion Prevention System (IPS)	|  Sızma Önleme Sistemi|  
+|  Encryption|  	Şifreleme|  
+|  Cryptography	|  Kriptografi|  
+|  Public Key Infrastructure (PKI)|  	Genel Anahtar Altyapısı|  
+|  Two-factor Authentication|  	İki Faktörlü Kimlik Doğrulama|  
+|  Access Control	|  Erişim Kontrolü|  
+|  Patch Management|  	Yamaların Yönetimi|  
+|  Security Audit|  	Güvenlik Denetimi|  
+|  Incident Response|  	Olay Yanıtı|  
+|  Security Policy	|  Güvenlik Politikası|  
+|  Network Security|  	Ağ Güvenliği|  
+|  Web Application Security|  	Web Uygulama Güvenliği|  
+|  Data Privacy	|  Veri Gizliliği|  
+|  Digital Forensics|  	Dijital Adli Bilişim|  
+|  Cyber Threat Intelligence	|  Siber Tehdit İstihbaratı|  
+
 
 :small_red_triangle_down:
 |  ENG  | TR  | 
